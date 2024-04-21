@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TravelList-4thTrainingReactTask/static/css/main.708779c1.css",
+    "main.js": "/TravelList-4thTrainingReactTask/static/js/main.f19a7bdc.js",
+    "index.html": "/TravelList-4thTrainingReactTask/index.html",
+    "main.708779c1.css.map": "/TravelList-4thTrainingReactTask/static/css/main.708779c1.css.map",
+    "main.f19a7bdc.js.map": "/TravelList-4thTrainingReactTask/static/js/main.f19a7bdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.708779c1.css",
+    "static/js/main.f19a7bdc.js"
+  ]
+}
