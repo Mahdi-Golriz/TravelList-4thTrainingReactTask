@@ -16,6 +16,7 @@ Travel List React application
   * State Management
   * Form submission handler envet (on submit)
   * State lift up
+  * How to pass state between siblings elements
  
 ## Technologies
 Project is created with:
