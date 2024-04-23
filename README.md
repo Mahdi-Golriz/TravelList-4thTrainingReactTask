@@ -14,6 +14,8 @@ Travel List React application
   * Building the Form and Handling Submissions
   * Controlled Elements
   * State Management
+  * Form submission handler envet (on submit)
+  * State lift up
  
 ## Technologies
 Project is created with:
