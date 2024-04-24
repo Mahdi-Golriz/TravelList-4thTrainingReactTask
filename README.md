@@ -17,6 +17,7 @@ Travel List React application
   * Form submission handler envet (on submit)
   * State lift up
   * How to pass state between siblings elements
+  * Using sort algorithms
  
 ## Technologies
 Project is created with:
