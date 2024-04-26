@@ -18,6 +18,9 @@ Travel List React application
   * State lift up
   * How to pass state between siblings elements
   * Using sort algorithms
+  * How to store each component in a separate file
+  * import and export components
+  * ا
  
 ## Technologies
 Project is created with:
