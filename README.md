@@ -20,7 +20,6 @@ Travel List React application
   * Using sort algorithms
   * How to store each component in a separate file
   * import and export components
-  * ا
  
 ## Technologies
 Project is created with:
